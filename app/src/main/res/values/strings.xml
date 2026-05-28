@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TDK Sözlük</string>
+    <string name="search_hint">Kelime ara…</string>
+    <string name="no_results">Sonuç bulunamadı</string>
+    <string name="no_favorites">Henüz favoriniz yok.\nBir kelimeyi açıp yıldız simgesine dokunarak favorilere ekleyebilirsiniz.</string>
+    <string name="favorites">Favoriler</string>
+    <string name="settings">Ayarlar</string>
+    <string name="random_word">Rastgele kelime</string>
+    <string name="loading_preparing">Sözlük hazırlanıyor…</string>
+    <string name="loading_indexing">Dizinleniyor: %1$d%%</string>
+    <string name="subtitle_count">%1$d madde</string>
+    <string name="from_lang">%1$s kökenli</string>
+    <string name="related_phrases">İlişkili madde ve deyimler</string>
+    <string name="birlesik_kelimeler">Birleşik kelimeler</string>
+    <string name="add_to_favorites">Favorilere ekle</string>
+    <string name="remove_from_favorites">Favorilerden çıkar</string>
+    <string name="added_to_favorites">Favorilere eklendi</string>
+    <string name="removed_from_favorites">Favorilerden çıkarıldı</string>
+    <string name="share">Paylaş</string>
+    <string name="error_not_found">Madde bulunamadı</string>
+    <string name="theme">Tema</string>
+    <string name="theme_system">Sistem ayarını kullan</string>
+    <string name="theme_light">Açık</string>
+    <string name="theme_dark">Koyu</string>
+    <string name="about">Hakkında</string>
+    <string name="app_version">Sürüm %1$s</string>
+    <string name="data_credit">Veri kaynağı: Türk Dil Kurumu Güncel Türkçe Sözlük (gts.json).</string>
+    <string name="credits">Yapımcılar</string>
+    <string name="credits_list">Erva Yağmur Kaluk\nCeren Köse\nNehir Bükrü</string>
+</resources>
