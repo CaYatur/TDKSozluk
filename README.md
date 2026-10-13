@@ -9,4 +9,4 @@ Türkçe sözlük Android uygulaması (Kotlin): kelime arama, detay ekranı, fav
 
 ---
 
-Çağan Turgut · [caganturgut.com](https://caganturgut.com) · [GitHub](https://github.com/CaYatur)
+Çağan Turgut · [GitHub](https://github.com/CaYatur)
